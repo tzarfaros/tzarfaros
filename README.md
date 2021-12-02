@@ -11,10 +11,21 @@ J'ai entrepris une reconversion professionnelle et j'ai choisi de rejoindre l'é
 
 ## Formations
 
-* BTS Management des Unités Commerciales 2018
-* Titre Professionnel Développeur Web et Web Mobile 2021
+* Titre Professionnel Développeur Web et Web Mobile 2021<br>
+O'clock - Formation en téléprésentiel - Labellisée Grande Ecole du Numérique<br>Paris - 2021 - 700 heures intensives<br>
+-> 3 mois de Socle : HTML5/CSS3/JavaScript/PHP/MySQL<br>
+-> 1 mois de Spécialisation : Symfony<br>
+-> 1 mois de projet : https://apicolorize.me/
 
-## Expériences
+* BTS Management des Unités Commerciales 2018<br>
+IFC Provence – Avignon - 2018<br>
+-> Management <br>
+-> Gestion d'entreprise<br>
+-> Communication<br>
+-> 2 Stages en Entreprise 
+
+
+## Expérience
 
 * Développeur Web Back-End Symfony <br>
 O’clock, Marseille<br>
