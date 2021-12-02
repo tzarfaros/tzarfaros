@@ -7,7 +7,7 @@
 
 ## Résumé
  
-J'ai entrepris une reconversion professionnelle et j'ai choisi de rejoindre l'école O'Clock pour me guider dans cette aventure afin de me donner toutes les bases et principes fondamentaux, une structure d'apprentissage reconnue et pour viser le titre de développeur web et web mobile.
+J'ai entrepris une reconversion professionnelle et j'ai choisi de rejoindre l'école O'Clock qui m'a fourni toutes les bases et principes fondamentaux ainsi qu'une structure d'apprentissage reconnue pour obtenir le titre de développeur web et web mobile.
 
 ## Formations
 
