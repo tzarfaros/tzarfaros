@@ -1,45 +1,24 @@
 # Hi, I'm Vincent Barone :wave:
 
-
-* linkedin :    https://www.linkedin.com/in/vincent-barone-13b303142/
-* twitter :     https://twitter.com/home?lang=fr
-* mail :        vincent.barone.dev@gmail.com
-
-## Résumé
- 
-J'ai entrepris une reconversion professionnelle et j'ai choisi de rejoindre l'école O'Clock qui m'a fourni toutes les bases et principes fondamentaux ainsi qu'une structure d'apprentissage reconnue pour obtenir le titre de développeur web et web mobile.
+* [linkedin](https://www.linkedin.com/in/vincent-barone-13b303142/)
+* [mail](vincent.barone.dev@gmail.com).
 
 ## Formations
 
-* Titre Professionnel Développeur Web et Web Mobile 2021<br>
-O'clock - Formation en téléprésentiel - Labellisée Grande Ecole du Numérique<br>Paris - 2021 - 700 heures intensives<br>
--> 3 mois de Socle : HTML5/CSS3/JavaScript/PHP/MySQL<br>
--> 1 mois de Spécialisation : Symfony<br>
--> 1 mois de projet : https://apicolorize.me/
-
-* BTS Management des Unités Commerciales 2018<br>
-IFC Provence – Avignon - 2018<br>
--> Management <br>
--> Gestion d'entreprise<br>
--> Communication<br>
--> 2 Stages en Entreprise 
+* Epitech MSC Architecte en ingénierie système et réseau promotion 2025
+* Titre Professionnel Développeur Web et Web Mobile 2022
+* BTS Management des Unités Commerciales 2018
 
 
 ## Expérience
 
-* Développeur Web Back-End Symfony <br>
-O’clock, Marseille<br>
-Projet de fin d’études<br>
-Développement Back-End application web<br>
-Equipe de 4 développeurs<br>
-Mise en ligne de l’API sur serveur AWS : https://apicolorize.me/<br>
-Site en ligne : https://projet-o-en-couleurs-front.vercel.app/
+* Half Consulting - Consultant Devops/Sysops - depuis mai 2022
+* O'clock - Développeur PHP Symfony - 2021
 
 ## Projets en cours
 
-* Préparation certification Opquast
-* Recherche d'un premier poste développeur web Back-End
-* Maintenance du site https://apicolorize.me/
+* Certification K8S
+* Offre Fullops - Half Consulting
 
 ## Languages, Frameworks, Platforms and Databases
 
