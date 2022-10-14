@@ -3,6 +3,7 @@
 * [linkedin](https://www.linkedin.com/in/vincent-barone-13b303142/)
 * [mail](vincent.barone.dev@gmail.com).
 
+
 ## Formations
 
 * Epitech MSC Architecte en ingénierie système et réseau promotion 2025
@@ -10,15 +11,17 @@
 * BTS Management des Unités Commerciales 2018
 
 
-## Expérience
+## Expériences
 
 * Half Consulting - Consultant Devops/Sysops - depuis mai 2022
 * O'clock - Développeur PHP Symfony - 2021
+
 
 ## Projets en cours
 
 * Certification K8S
 * Offre Fullops - Half Consulting
+
 
 ## Languages, Frameworks, Platforms and Databases
 
